@@ -1,5 +1,5 @@
 <template>
-    <h1>App h1</h1>
+    <h1>App h2</h1>
 </template>
 
 <script>
